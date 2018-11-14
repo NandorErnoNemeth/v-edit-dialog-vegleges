@@ -1,3 +1,5 @@
+# v-edit-dialog bemutató
+
 # Vue.js + Typescript + Vuetify + VueRourer
 
 ## netlify link:
